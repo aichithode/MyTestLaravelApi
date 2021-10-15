@@ -14,7 +14,7 @@ Mot de passe:
 
 5- remplir la base de données : executer la commande "php artisan data:init"
 
-6- Connectez vous au back office avec: 
+6- Pour vous connectez au back office, enregistrer vous préalablement avec le lien "Inscription" 
 
 --------------------------------------Documentations-------------------------
 
@@ -28,3 +28,9 @@ https://www.letecode.com/tutoriel-laravel-8-et-jetstream
 Jetstream
 
 Livewire
+
+laravelcollective/html
+
+kris/laravel-form-builder
+
+rappasoft/laravel-helpers
