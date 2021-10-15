@@ -15,6 +15,7 @@ Mot de passe:
 6- Connectez vous au back office avec: 
 
 --------------------------------------Documentations-------------------------
+
 https://jetstream.laravel.com/2.x/introduction.html
 https://www.letecode.com/tutoriel-laravel-8-et-jetstream
 
