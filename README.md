@@ -17,9 +17,12 @@ Mot de passe:
 --------------------------------------Documentations-------------------------
 
 https://jetstream.laravel.com/2.x/introduction.html
+
 https://www.letecode.com/tutoriel-laravel-8-et-jetstream
 
 
 --------------------------------------Packages utilisés-------------------------
+
 Jetstream
+
 Livewire
